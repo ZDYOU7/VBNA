@@ -244,7 +244,7 @@ PORT=2083
 
 🔗 Telegram:
 
-https://t.me/g1ithub
+https://t.me/amirsp1ider
 
 
 ---
